@@ -1,0 +1,9 @@
+#staging
+#Thu May 14 22:04:23 IST 2020
+password=pwd1
+DBname=localdb
+name=nty
+env=staging
+keyword=key1
+Browser=internetexplorer
+username=gimmy
